@@ -7,6 +7,7 @@ https://github.com/Yokeshthebouncer/IndicatorSeekBarWithHint
 
 implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.0.0'
 
+```
 <com.yokesh.seekbarwithhint.SeekBar
         android:id="@+id/numberOfChequeBooks"
         android:layout_width="match_parent"
@@ -20,7 +21,8 @@ implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.0.0'
         app:maxValue="10"
         app:progressDrawable="@drawable/seekbar_progress_drawable"
         app:progressTextColor="@color/colorRedPrimary"
-        app:thumb="@drawable/custom_thumb" />
+        app:thumb="@drawable/custom_thumb" />```
+
        
        
 User can customise the min and max value and they can also customise the progress text color and progress drawable. 
