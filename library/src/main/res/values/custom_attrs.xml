@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BbynSeekBar">
+        <attr name="progressTextColor" format="integer"/>
+        <attr name="maxValue" format="integer"/>
+        <attr name="thumb" format="integer"/>
+        <attr name="progressDrawable" format="integer"/>
+        <attr name="startValue" format="integer"/>/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.yokesh.seekbarwithhint.SeekBar
+        android:id="@+id/numberOfChequeBooks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:startValue="0"
+        app:maxValue="10"
+        app:progressDrawable="@drawable/seekbar_progress_drawable"
+        app:progressTextColor="@color/colorRedPrimary"
+        app:thumb="@drawable/custom_thumb" />
+
+</android.support.constraint.ConstraintLayout>
