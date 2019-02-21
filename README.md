@@ -21,7 +21,7 @@ implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.0.0'
         app:maxValue="10"
         app:progressDrawable="@drawable/seekbar_progress_drawable"
         app:progressTextColor="@color/colorRedPrimary"
-        app:thumb="@drawable/custom_thumb" />```
+        app:thumb="@drawable/custom_thumb" />
 
        
        
@@ -30,3 +30,5 @@ User can customise the min and max value and they can also customise the progres
 A simple custom seekbar with hint, even an fresher can understand.
 
 Any queries plesee post, Happy to help :) 
+
+Please see the sample application, you will understand
