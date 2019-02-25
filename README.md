@@ -31,10 +31,25 @@ implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.1.1'
 ```
        
        
-User can customise the min and max value and they can also customise the progress text color and progress drawable. 
+User can customise the min and max value from the xml and they can also customise the progress text color and progress drawable. 
+
+And also user can set the min and max value by using the method,
+```
+seekbar.setMinMax(min, max)
+```
+
+Set progress and get progress by 
+```
+seekBar.setProgress(1)
+```
+```
+seekbar.getProgress()
+- It will get you the progress using live data
+```
+
 
 A simple custom seekbar with hint, even an fresher can understand.
 
-Any queries plesee post, Happy to help :) 
+Any queries please post, Happy to help :) 
 
 Please see the sample application, you will understand
