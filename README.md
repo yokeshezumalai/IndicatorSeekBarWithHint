@@ -5,10 +5,16 @@ https://github.com/Yokeshthebouncer/IndicatorSeekBarWithHint
 
 # Implementation
 
-implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.0.0'
+### Gradle Dependency
 
 ```
-<com.yokesh.seekbarwithhint.SeekBar
+implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.1.1'
+```
+
+### Usage
+
+```
+<com.yokesh.indicatorseekbar.SeekBar
         android:id="@+id/numberOfChequeBooks"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +28,7 @@ implementation 'com.github.Yokeshthebouncer:IndicatorSeekBarWithHint:1.0.0'
         app:progressDrawable="@drawable/seekbar_progress_drawable"
         app:progressTextColor="@color/colorRedPrimary"
         app:thumb="@drawable/custom_thumb" />
-
+```
        
        
 User can customise the min and max value and they can also customise the progress text color and progress drawable. 
