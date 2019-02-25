@@ -1,1 +1,1 @@
-include ':sample', ':library', ':indicatorseekbar'
+include ':sample', ':indicatorseekbar'
