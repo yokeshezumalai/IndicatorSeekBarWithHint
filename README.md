@@ -52,4 +52,4 @@ A simple custom seekbar with hint, even an fresher can understand.
 
 Any queries please post, Happy to help :) 
 
-Please see the sample application, you will understand
+There is a sample application, please have a look at it. You will understand.
