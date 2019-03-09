@@ -4,6 +4,9 @@ A custom seek bar with floating textview
 
 https://github.com/Yokeshthebouncer/IndicatorSeekBarWithHint
 
+# Medium
+https://medium.com/@yokeshezumalai/android-custom-seek-bar-with-floating-textview-1b904c8e7439
+
 # Implementation
 
 ### Gradle Dependency
