@@ -2,7 +2,7 @@
 A custom SeekBar on Android - Kotlin, will show hint view with progress above SeekBar when seeking.
 A custom seek bar with floating textview
 
-https://github.com/Yokeshthebouncer/IndicatorSeekBarWithHint
+https://github.com/yokeshezumalai/IndicatorSeekBarWithHint
 
 # Medium
 https://medium.com/@yokeshezumalai/android-custom-seek-bar-with-floating-textview-1b904c8e7439
