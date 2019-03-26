@@ -13,6 +13,9 @@ A custom seek bar with floating textview
 https://github.com/yokeshezumalai/IndicatorSeekBarWithHint
 
 # Medium
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4df452f86b46476bb67fb5a538fbf34c)](https://app.codacy.com/app/yokeshezumalai/IndicatorSeekBarWithHint?utm_source=github.com&utm_medium=referral&utm_content=yokeshezumalai/IndicatorSeekBarWithHint&utm_campaign=Badge_Grade_Dashboard)
+
 https://medium.com/@yokeshezumalai/android-custom-seek-bar-with-floating-textview-1b904c8e7439
 
 # Implementation
