@@ -1,6 +1,10 @@
-# IndicatorSeekBarWithHint
 
+<h1 align="center">IndicatorSeekBarWithHint</h1>
+<p align="center">
  <a href="https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master"> <img src="https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master.svg?style=shield" /></a>
+ <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
+  <br /><br />
+ </p>
 
 A custom SeekBar on Android - Kotlin, will show hint view with progress above SeekBar when seeking.
 A custom seek bar with floating textview
