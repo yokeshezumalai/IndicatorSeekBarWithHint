@@ -4,7 +4,7 @@
  <a href="https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master"> <img src="https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master.svg?style=shield" /></a>
  <a href="https://jitpack.io/#yokeshezumalai/IndicatorSeekBarWithHint"><img src="https://jitpack.io/v/yokeshezumalai/IndicatorSeekBarWithHint/month.svg"/></a>
  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4df452f86b46476bb67fb5a538fbf34c)](https://app.codacy.com/app/yokeshezumalai/IndicatorSeekBarWithHint?utm_source=github.com&utm_medium=referral&utm_content=yokeshezumalai/IndicatorSeekBarWithHint&utm_campaign=Badge_Grade_Dashboard)
+  <a class="badge-align" href="https://app.codacy.com/app/yokeshezumalai/IndicatorSeekBarWithHint?utm_source=github.com&utm_medium=referral&utm_content=yokeshezumalai/IndicatorSeekBarWithHint&utm_campaign=Badge_Grade_Dashboard"><img src="https://api.codacy.com/project/badge/Grade/4df452f86b46476bb67fb5a538fbf34c"/></a>
   <br /><br />
  </p>
 
