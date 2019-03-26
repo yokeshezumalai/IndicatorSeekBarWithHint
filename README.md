@@ -2,6 +2,9 @@
 
 [![CircleCI](https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master.svg?style=svg)](https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master)
 
+
+ <a href="https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master"> <img src="https://circleci.com/gh/yokeshezumalai/IndicatorSeekBarWithHint/tree/master.svg?style=shield" /></a>
+
 A custom SeekBar on Android - Kotlin, will show hint view with progress above SeekBar when seeking.
 A custom seek bar with floating textview
 
